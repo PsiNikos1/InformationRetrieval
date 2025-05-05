@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/commons-csv-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-analyzers-common-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-codecs-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-core-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-expressions-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-highlighter-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-memory-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-queries-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-queryparser-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-spatial-extras-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-spatial3d-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-suggest-8.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/opencsv-3.7.jar"/>
+	<classpathentry kind="lib" path="libs/opencsv-5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikos/Downloads/lucene-1.4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
